@@ -1,0 +1,11 @@
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\obj\Debug\net7.0\Unach.Gimnasio.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\obj\Debug\net7.0\Unach.Gimnasio.Helpers.AssemblyInfoInputs.cache
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\obj\Debug\net7.0\Unach.Gimnasio.Helpers.AssemblyInfo.cs
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\obj\Debug\net7.0\Unach.Gimnasio.Helpers.csproj.CoreCompileInputs.cache
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\bin\Debug\net7.0\Unach.Gimnasio.Helpers.deps.json
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\bin\Debug\net7.0\Unach.Gimnasio.Helpers.dll
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\bin\Debug\net7.0\Unach.Gimnasio.Helpers.pdb
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\obj\Debug\net7.0\Unach.Gimnasio.Helpers.dll
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\obj\Debug\net7.0\refint\Unach.Gimnasio.Helpers.dll
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\obj\Debug\net7.0\Unach.Gimnasio.Helpers.pdb
+C:\gimnasio\API5M\Unach.Gimnasio.Helpers\obj\Debug\net7.0\ref\Unach.Gimnasio.Helpers.dll
