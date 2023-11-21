@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Unach.Ventas.BasesDatos/1.0.0": {
+        "dependencies": {
+          "Unach.Gimnasio.Modelos": "1.0.0"
+        },
+        "runtime": {
+          "Unach.Ventas.BasesDatos.dll": {}
+        }
+      },
+      "Unach.Gimnasio.Modelos/1.0.0": {
+        "runtime": {
+          "Unach.Gimnasio.Modelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unach.Ventas.BasesDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unach.Gimnasio.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

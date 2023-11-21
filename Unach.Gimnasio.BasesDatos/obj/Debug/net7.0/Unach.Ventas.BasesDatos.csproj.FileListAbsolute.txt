@@ -1,0 +1,15 @@
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\bin\Debug\net7.0\Unach.Ventas.BasesDatos.deps.json
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\bin\Debug\net7.0\Unach.Ventas.BasesDatos.dll
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\bin\Debug\net7.0\Unach.Ventas.BasesDatos.pdb
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\bin\Debug\net7.0\Unach.Gimnasio.Modelos.dll
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\bin\Debug\net7.0\Unach.Gimnasio.Modelos.pdb
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\Unach.Ventas.BasesDatos.csproj.AssemblyReference.cache
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\Unach.Ventas.BasesDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\Unach.Ventas.BasesDatos.AssemblyInfoInputs.cache
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\Unach.Ventas.BasesDatos.AssemblyInfo.cs
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\Unach.Ventas.BasesDatos.csproj.CoreCompileInputs.cache
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\Unach.Ventas.BasesDatos.csproj.CopyComplete
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\Unach.Ventas.BasesDatos.dll
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\refint\Unach.Ventas.BasesDatos.dll
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\Unach.Ventas.BasesDatos.pdb
+C:\gimnasio\API5M\Unach.Gimnasio.BasesDatos\obj\Debug\net7.0\ref\Unach.Ventas.BasesDatos.dll
