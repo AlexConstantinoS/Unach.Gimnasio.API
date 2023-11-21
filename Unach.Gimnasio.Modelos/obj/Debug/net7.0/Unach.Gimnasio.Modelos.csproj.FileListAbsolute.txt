@@ -1,0 +1,11 @@
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\bin\Debug\net7.0\Unach.Gimnasio.Modelos.deps.json
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\bin\Debug\net7.0\Unach.Gimnasio.Modelos.dll
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\bin\Debug\net7.0\Unach.Gimnasio.Modelos.pdb
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\obj\Debug\net7.0\Unach.Gimnasio.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\obj\Debug\net7.0\Unach.Gimnasio.Modelos.AssemblyInfoInputs.cache
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\obj\Debug\net7.0\Unach.Gimnasio.Modelos.AssemblyInfo.cs
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\obj\Debug\net7.0\Unach.Gimnasio.Modelos.csproj.CoreCompileInputs.cache
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\obj\Debug\net7.0\Unach.Gimnasio.Modelos.dll
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\obj\Debug\net7.0\refint\Unach.Gimnasio.Modelos.dll
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\obj\Debug\net7.0\Unach.Gimnasio.Modelos.pdb
+C:\gimnasio\API5M\Unach.Gimnasio.Modelos\obj\Debug\net7.0\ref\Unach.Gimnasio.Modelos.dll
