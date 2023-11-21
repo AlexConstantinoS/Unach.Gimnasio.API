@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Unach.Gimnasio.API.props" />
-</Project>

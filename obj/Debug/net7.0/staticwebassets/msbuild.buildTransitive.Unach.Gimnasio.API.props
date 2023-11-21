@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Unach.Gimnasio.API.props" />
-</Project>
